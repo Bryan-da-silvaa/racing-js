@@ -1,2 +1,1 @@
-# racing-js
-JavaScript exercises
+# RacingJs
